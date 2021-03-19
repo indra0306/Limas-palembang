@@ -1,0 +1,57 @@
+.row{
+    padding-top: 2%;
+    padding-right: 5%;
+    padding-left: 12%;
+    padding-bottom: 5%;
+}
+
+.row .border-right img{
+    width: 80%;
+    height: 90%;
+    margin-left: 5%;
+}
+
+.row .border-left img{
+    width: 80%;
+    height: 90%;
+    margin-left: 5%;
+}
+
+.row .border-right{
+    width: 360px;
+    height: 180;
+}
+
+
+.row .border-left{
+    width: 360px;
+    height: 180;
+}
+
+.row .border-left a{
+    margin-left: 30%;
+}
+
+.row .border-right a{
+    margin-left: 30%
+    margin-top
+}
+
+.row .navbar .container .collapse ul .border-right{
+    width: 75px;
+}
+
+.row .navbar .container .collapse ul .border-right li a{
+    margin-left: 0%;
+}
+
+.row .border-top{
+    width: 100%;
+    height: 30px;
+}
+
+h5{
+    padding-top: 2%;
+   
+    font-size: 30px;
+}

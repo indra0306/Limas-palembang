@@ -1,0 +1,23 @@
+.row{
+    padding-left: 9%;
+    padding-right: 10%;
+}
+
+.row h5{
+ 
+    padding-top: 5%;
+    font-size: 40px;
+    padding-bottom: 2%;
+}
+
+
+.row .border-top{
+    width: 100%;
+    height: 30px;
+}
+
+h5{
+    padding-top: 2%;
+    padding-left: 39%;
+    font-size: 30px;
+}

@@ -1,0 +1,8 @@
+.row{
+    padding-top: 1%;
+    padding-bottom: 5%;
+}
+
+.container > .list-group > a{
+    font-size: small;
+}
